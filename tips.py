@@ -1,0 +1,1 @@
+# use ** to raise a number and use # to leave notes in code
